@@ -1,0 +1,20 @@
+﻿  GridTetromino.cpp
+  Main.cpp
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\Main.cpp(72,12): warning C4101: 'guiEvent': unreferenced local variable
+  TestSuite.cpp
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TestSuite.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  TetrisGame.cpp
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(91,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,80): warning C4244:         with
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,80): warning C4244:         [
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,80): warning C4244:             T=float
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,80): warning C4244:         ]
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,54): warning C4244:         with
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,54): warning C4244:         [
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,54): warning C4244:             T=float
+C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Tetris\TetrisGame.cpp(171,54): warning C4244:         ]
+  Tetromino.cpp
+  Generating Code...
+  Tetris.vcxproj -> C:\Users\endyv\OneDrive\Desktop\School\Year 2\C++\Lab8\Tetris\Debug\Tetris.exe
