@@ -1,0 +1,14 @@
+﻿  Gameboard.cpp
+  GridTetromino.cpp
+S:\Unity\GitHub\Tetris\Lab8\Tetris\Tetris\Gameboard.cpp(76,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+S:\Unity\GitHub\Tetris\Lab8\Tetris\Tetris\Gameboard.cpp(76,33): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Main.cpp
+S:\Unity\GitHub\Tetris\Lab8\Tetris\Tetris\Main.cpp(3,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Point.cpp
+  Source.cpp
+  TestSuite.cpp
+  TetrisGame.cpp
+S:\Unity\GitHub\Tetris\Lab8\Tetris\Tetris\TetrisGame.h(21,10): error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  (compiling source file 'TetrisGame.cpp')
+  
+  Tetromino.cpp
